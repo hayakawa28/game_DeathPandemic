@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="app.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="playScene.cpp" />
+    <ClCompile Include="titleScene.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="stones.cpp" />
+    <ClCompile Include="score.cpp" />
+    <ClCompile Include="enemies.cpp" />
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="Back.cpp" />
+    <ClCompile Include="Boss.cpp" />
+    <ClCompile Include="Operate.cpp" />
+    <ClCompile Include="Clear.cpp" />
+    <ClCompile Include="Gameover.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="timelimit.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="app.h" />
+    <ClInclude Include="config.h" />
+    <ClInclude Include="playScene.h" />
+    <ClInclude Include="titleScene.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="stones.h" />
+    <ClInclude Include="common.h" />
+    <ClInclude Include="score.h" />
+    <ClInclude Include="enemies.h" />
+    <ClInclude Include="Back.h" />
+    <ClInclude Include="Boss.h" />
+    <ClInclude Include="Operate.h" />
+    <ClInclude Include="Clear.h" />
+    <ClInclude Include="Gameover.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="timelimit.h" />
+  </ItemGroup>
+</Project>
